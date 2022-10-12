@@ -14,6 +14,8 @@ A Demo showing how to export data to CSV file and download from Swagger and Post
 
 <kbd>![image](https://user-images.githubusercontent.com/30829678/195451515-170229db-0892-42f5-89a4-74e32f0b545c.png)</kbd>
 
+<kbd>![image](https://user-images.githubusercontent.com/30829678/195453010-ae2404e0-f063-44b5-ad03-50c042ef850e.png)</kbd>
+
 
 ```C#
 [HttpPost]
